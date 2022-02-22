@@ -1,5 +1,6 @@
 # Digital-Signal-and-Image-Management
 Digital Signal and Image Management project.
+
 NOTEBOOK:
 1. Audio classification:
    *  1_ACQUISIZIONE_AUDIO.ipynb: codice utilizzato per la registrazione delle tracce audio
